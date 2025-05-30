@@ -1,0 +1,11 @@
+{
+    "require": {
+        "staabm/thincache": "^1.0"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "require-dev": {
+        "shipmonk/composer-dependency-analyser": "^1.8"
+    }
+}
